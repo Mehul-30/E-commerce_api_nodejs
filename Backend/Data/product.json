@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "price": "99.99",
+        "description": "High-quality wireless Bluetooth headphones with noise cancellation, built-in microphone, and long battery life.",
+        "ratings": "4.5",
+        "images": [
+            {
+                "image": "https://example.com/images/headphones_1.jpg"
+            },
+            {
+                "image": "https://example.com/images/headphones_2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "TechStore Inc.",
+        "stock": "150",
+        "numOfReviews": "120",
+        "createdAt": "2024-11-15T10:00:00Z"
+    },
+    {
+        "name": "Smartphone 12 Pro Max",
+        "price": "1099.99",
+        "description": "Latest model of the smartphone with high-end performance, great camera, and impressive battery life.",
+        "ratings": "4.7",
+        "images": [
+            {
+                "image": "https://example.com/images/smartphone_1.jpg"
+            },
+            {
+                "image": "https://example.com/images/smartphone_2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "MobileWorld",
+        "stock": "200",
+        "numOfReviews": "85",
+        "createdAt": "2024-11-10T14:00:00Z"
+    },
+    {
+        "name": "4K Ultra HD TV",
+        "price": "499.99",
+        "description": "A stunning 4K ultra HD TV with smart features, built-in apps, and a large screen perfect for home entertainment.",
+        "ratings": "4.6",
+        "images": [
+            {
+                "image": "https://example.com/images/tv_1.jpg"
+            },
+            {
+                "image": "https://example.com/images/tv_2.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "ElectroShop",
+        "stock": "75",
+        "numOfReviews": "60",
+        "createdAt": "2024-11-12T09:30:00Z"
+    },
+    {
+        "name": "Leather Sofa Set",
+        "price": "799.99",
+        "description": "A stylish and comfortable leather sofa set, perfect for modern living rooms.",
+        "ratings": "4.8",
+        "images": [
+            {
+                "image": "https://example.com/images/sofa_1.jpg"
+            },
+            {
+                "image": "https://example.com/images/sofa_2.jpg"
+            }
+        ],
+        "category": "Furniture",
+        "seller": "HomeFurniture",
+        "stock": "30",
+        "numOfReviews": "45",
+        "createdAt": "2024-11-08T16:00:00Z"
+    },
+    {
+        "name": "Electric Blender",
+        "price": "49.99",
+        "description": "Compact electric blender for smoothies, soups, and sauces, with multiple speed settings.",
+        "ratings": "4.2",
+        "images": [
+            {
+                "image": "https://example.com/images/blender_1.jpg"
+            },
+            {
+                "image": "https://example.com/images/blender_2.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "KitchenPro",
+        "stock": "300",
+        "numOfReviews": "200",
+        "createdAt": "2024-11-01T11:30:00Z"
+    },
+    {
+        "name": "Gaming Laptop X15",
+        "price": "1499.99",
+        "description": "High-performance gaming laptop with a fast processor, dedicated graphics card, and a sleek design.",
+        "ratings": "4.9",
+        "images": [
+            {
+                "image": "https://example.com/images/laptop_1.jpg"
+            },
+            {
+                "image": "https://example.com/images/laptop_2.jpg"
+            }
+        ],
+        "category": "Computers",
+        "seller": "GamerTech",
+        "stock": "100",
+        "numOfReviews": "140",
+        "createdAt": "2024-11-14T13:00:00Z"
+    }
+]
